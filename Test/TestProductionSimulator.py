@@ -9,7 +9,7 @@ class TestProductionSimulator(unittest.TestCase):
     def setUp(self):
         # Fixed seed for reproducibility
         random.seed(0)
-        self.product_names = ['P1', 'P2', 'P3']
+        self.product_names = ['P1', 'P2', 'P3', 'P4', 'P5', 'P6']
         # Generate deterministic quantities and parameters
         quantities = ProductionSimulator.generate_random_quantities(self.product_names, min_qty=10, max_qty=10)
         params, overall_capacity = ProductionSimulator.generate_random_parameters(self.product_names)
