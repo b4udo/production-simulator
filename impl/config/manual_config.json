@@ -1,0 +1,11 @@
+{
+  "products": {
+    "Product 1": {"quantity": 120, "unit_time": 1.5, "daily_capacity": 300},
+    "Product 2": {"quantity": 80,  "unit_time": 0.7, "daily_capacity": 200},
+    "Product 3": {"quantity": 200, "unit_time": 2.0, "daily_capacity": 150},
+    "Product 4": {"quantity": 250, "unit_time": 2.5, "daily_capacity": 234},
+    "Product 5": {"quantity": 300, "unit_time": 1.3, "daily_capacity": 200},
+    "Product 6": {"quantity": 350, "unit_time": 5.0, "daily_capacity": 100}
+  },
+  "overall_daily_capacity": 1780
+}

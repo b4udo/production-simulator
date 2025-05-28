@@ -1,0 +1,37 @@
+{
+  "products": {
+    "Product 1": {
+      "quantity": 93,
+      "unit_time": 1.84,
+      "daily_capacity": 342
+    },
+    "Product 2": {
+      "quantity": 169,
+      "unit_time": 1.39,
+      "daily_capacity": 110
+    },
+    "Product 3": {
+      "quantity": 109,
+      "unit_time": 1.87,
+      "daily_capacity": 184
+    },
+    "Product 4": {
+      "quantity": 155,
+      "unit_time": 1.77,
+      "daily_capacity": 482
+    },
+    "Product 5": {
+      "quantity": 139,
+      "unit_time": 1.87,
+      "daily_capacity": 372
+    },
+    "Product 6": {
+      "quantity": 114,
+      "unit_time": 1.69,
+      "daily_capacity": 498
+    }
+  },
+  "overall_daily_capacity": 1420,
+  "total_hours": 22.28,
+  "total_days": 0.5
+}
